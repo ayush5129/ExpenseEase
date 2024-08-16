@@ -22,8 +22,10 @@ deletion of expenses when they are no longer needed.</li>
 ### Deployment
 Both the frontend and backend components of the app were deployed separately. The 
 frontend was hosted on a web server, while the backend was deployed to a platform like 
-render. This decoupled deployment approach allowed for easy scalability and maintenance.
+render. This decoupled
+deployment approach allowed for easy scalability and maintenance.
 
 ## Have a Look ---> https://expenseease-3fwu.onrender.com/ 
 ## images
-
+ ![Screenshot (59)](https://github.com/user-attachments/assets/7c52ea83-cbf3-44f6-a5c8-09dbd75cd644)
+![Screenshot (60)](https://github.com/user-attachments/assets/50f74b1e-7a14-4e08-b949-7473a5d2cd4b)
