@@ -25,5 +25,5 @@ frontend was hosted on a web server, while the backend was deployed to a platfor
 render. This decoupled deployment approach allowed for easy scalability and maintenance.
 
 ## Have a Look ---> https://expenseease-3fwu.onrender.com/ 
-
+## images
 
